@@ -104,10 +104,15 @@ body {
 .project {
   background: #f5f5f5;
   padding: 20px;
-  margin: 20px auto;
-  width: 320px;
+  margin: 30px auto;          /* 🔥 spacing yahin se control */
+  width: 100%;
+  max-width: 360px;
   border-radius: 10px;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
 }
+
+
 .project a {
   color: #4f6df5;
   text-decoration: none;
