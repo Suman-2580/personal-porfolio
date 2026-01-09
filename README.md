@@ -5,10 +5,6 @@ The website is designed with a clean, modern UI and a fixed navigation bar for s
 
 ---
 
-## Visit Live 
-
-Link - https://suman-2580.github.io/personal-porfolio/
-
 ## 🚀 About the Project
 
 This portfolio represents my journey as a web developer.  
